@@ -1,8 +1,8 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+[SinglePaged theme](https://github.com/t413/SinglePaged) by [Tim O'Brien](http://t413.com/)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Site by Aaron Ciaghi (with help from [Giulio Michelon](http://www.giuliomichelon.com))
 &mdash;
-this site is [open source]({{ site.source_link }})
+[<i class="fa fa-github"></i> fork this site]({{ site.source_link }})
 
